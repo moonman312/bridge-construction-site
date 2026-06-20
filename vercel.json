@@ -11,7 +11,7 @@
           "value": "hotelconstructionfinancing.com"
         }
       ],
-      "destination": "https://hotelbridgeloans.com/$1",
+      "destination": "https://hotelbridgeloans.com/$1?ref=hotelconstructionfinancing.com",
       "permanent": true
     }
   ],
